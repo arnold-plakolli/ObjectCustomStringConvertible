@@ -2,8 +2,7 @@
 
 ## Usage
 
-```
-swift
+```swift
 struct User: ObjectCustomStringConvertible {
     let id: UUID
     let username: String
